@@ -1,0 +1,36 @@
+body{
+    background-color: aquamarine;
+}
+
+.img img{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+
+.img, .btn {
+    display: flex;
+    justify-content: center;
+}
+
+
+h1, h2 ,footer{
+    text-align: center;
+}
+
+.container h1{
+    color: brown;
+}
+
+.container h2{
+    color: blue;
+}
+.btn button{
+    padding: 14px;
+    columns: white;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    background-color: rgb(104, 235, 128);
+}
